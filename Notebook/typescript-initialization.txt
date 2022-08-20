@@ -1,0 +1,31 @@
+Options : {
+
+	target : {
+		
+		Target option set changes wich JS features are downleveled and wich are left intact.
+		
+		Determines the available features of Javascript language
+		
+		It implies in the way that lib folder will be composed
+		
+		There is a possibility to personalize by ourselves the typescript lib folder
+		adding or removing js features, in othre words exists a way to create custom javascript bundles
+		that contains js features of different versions.
+		
+		Target -> Lib -> Js-Features 
+		
+		'es2016' : {
+			
+			One set of specific js language features
+		
+		} 
+		
+		'es2015' : {
+			
+			Another set of specific js language features
+			
+		}
+		
+	}
+
+}

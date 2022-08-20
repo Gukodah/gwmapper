@@ -1,0 +1,69 @@
+Proposição : {
+	
+	
+
+}
+
+Negação : {
+	
+	
+	
+}
+
+Proposição composta - Conectivos : {
+	
+	
+	
+}
+
+
+Condicionais : {
+	
+	
+	
+}
+
+Tautologias : {
+	
+	
+	
+}
+
+Proposições logicamente falsas : {
+	
+	
+	
+}
+
+Relação de implicação : {
+	
+	
+	
+}
+
+Relação de equivalência : {
+	
+	
+	
+}
+
+Sentenças abertas : {
+	
+	
+	
+}
+
+Como negar proposições : {
+	
+	
+	
+}
+
+=======================================================================================================================
+
+Capitulo II - Conjuntos : {
+	
+	
+	
+}
+

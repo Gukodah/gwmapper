@@ -1,0 +1,44 @@
+SOLID : {
+	
+	S : {
+		
+		Single Responsability Principle
+		
+	}
+	
+	O : {
+		
+		Open Close Principle 
+		
+	}
+	
+	L : {
+		
+		Liskov Substitution Principle
+		
+	}
+
+	I : {
+		
+		Interface Segregation Principle
+		
+	}
+	
+	D : {
+		
+		Dependency Inversion Principle 
+		
+	}
+	
+	Achievments : {
+		
+		- Separation of concerns
+		
+		- Less coupled software units
+		
+		- Easily refactorable code
+		
+		- Easily reutilizable code
+		
+	}
+}
